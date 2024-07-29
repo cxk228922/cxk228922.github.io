@@ -24,6 +24,6 @@ type: page
 
 最後，如果有任何問題，請連絡社長
 - Discord：arc_testify
-# Comments
 
+# Comments
 {% include comments.html %}
